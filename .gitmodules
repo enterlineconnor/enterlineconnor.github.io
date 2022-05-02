@@ -1,0 +1,3 @@
+[submodule "OSRS_Quest_Requirement_Check"]
+	path = OSRS_Quest_Requirement_Check
+	url = https://github.com/enterlineconnor/OSRS_Quest_Requirement_Check.git
